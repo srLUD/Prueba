@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
-
+#XD
 archivo = 'c:\Users\ludwi\OneDrive\Visual Studio\Python\Corto7\Corto7.xlsx'  
 hoja = 'Registro Temperatura'
 df = pd.read_excel(archivo, sheet_name=hoja)
